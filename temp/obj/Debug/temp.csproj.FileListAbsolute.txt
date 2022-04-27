@@ -1,0 +1,14 @@
+D:\FE_SEM5\CSharp_DotNET\assigments\assignment_4\Assignment4_BookManagement\temp\bin\Debug\temp.exe.config
+D:\FE_SEM5\CSharp_DotNET\assigments\assignment_4\Assignment4_BookManagement\temp\bin\Debug\temp.exe
+D:\FE_SEM5\CSharp_DotNET\assigments\assignment_4\Assignment4_BookManagement\temp\bin\Debug\temp.pdb
+D:\FE_SEM5\CSharp_DotNET\assigments\assignment_4\Assignment4_BookManagement\temp\bin\Debug\Assignment4_BookManagement.exe
+D:\FE_SEM5\CSharp_DotNET\assigments\assignment_4\Assignment4_BookManagement\temp\bin\Debug\DataAccess.dll
+D:\FE_SEM5\CSharp_DotNET\assigments\assignment_4\Assignment4_BookManagement\temp\bin\Debug\Assignment4_BookManagement.pdb
+D:\FE_SEM5\CSharp_DotNET\assigments\assignment_4\Assignment4_BookManagement\temp\bin\Debug\Assignment4_BookManagement.exe.config
+D:\FE_SEM5\CSharp_DotNET\assigments\assignment_4\Assignment4_BookManagement\temp\bin\Debug\DataAccess.pdb
+D:\FE_SEM5\CSharp_DotNET\assigments\assignment_4\Assignment4_BookManagement\temp\obj\Debug\temp.csproj.AssemblyReference.cache
+D:\FE_SEM5\CSharp_DotNET\assigments\assignment_4\Assignment4_BookManagement\temp\obj\Debug\temp.csproj.SuggestedBindingRedirects.cache
+D:\FE_SEM5\CSharp_DotNET\assigments\assignment_4\Assignment4_BookManagement\temp\obj\Debug\temp.csproj.CoreCompileInputs.cache
+D:\FE_SEM5\CSharp_DotNET\assigments\assignment_4\Assignment4_BookManagement\temp\obj\Debug\temp.csproj.CopyComplete
+D:\FE_SEM5\CSharp_DotNET\assigments\assignment_4\Assignment4_BookManagement\temp\obj\Debug\temp.exe
+D:\FE_SEM5\CSharp_DotNET\assigments\assignment_4\Assignment4_BookManagement\temp\obj\Debug\temp.pdb
